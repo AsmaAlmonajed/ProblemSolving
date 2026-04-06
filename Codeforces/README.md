@@ -57,7 +57,9 @@ This page presents my solutions to various Codeforces problems, all solved in C+
 
 <tr><td align="center">20</td><td align="center">T</td><td align="center">Sort Numbers</td><td align="center"><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T">Question</a></td><td align="center"><a href="https://github.com/AsmaAlmonajed/ProblemSolving/blob/main/Codeforces/Assiut%20University/Sheet%20%231/T-%20Sort%20Numbers.cpp">Solution</a></td></tr>
 
-<tr><td align="center">21</td><td align="center">U</td><td align="center">Float or int</td><td align="center"><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U">Question</a></td><td align="center"><a href="https://github.com/AsmaAlmonajed/ProblemSolving/blob/main/Codeforces/Assiut%20University/Sheet%20%231/U-%20Float%20or%20int">Solution</a></td></tr>
+<tr><td align="center">21</td><td align="center">U</td><td align="center">Float or int</td><td align="center"><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U">Question</a></td><td align="center"><a href="https://github.com/AsmaAlmonajed/ProblemSolving/blob/main/Codeforces/Assiut%20University/Sheet%20%231/U-%20Float%20or%20int.cpp">Solution</a></td></tr>
+
+<tr><td align="center">22</td><td align="center">V</td><td align="center">Comparison</td><td align="center"><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V">Question</a></td><td align="center"><a href="https://github.com/AsmaAlmonajed/ProblemSolving/blob/main/Codeforces/Assiut%20University/Sheet%20%231/V-%20Comparison.cpp">Solution</a></td></tr>
 
 </table>
 
